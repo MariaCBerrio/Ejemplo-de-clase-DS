@@ -1,0 +1,6 @@
+com\udea\clase19\services\StudentService.class
+com\udea\clase19\Clase19Application.class
+com\udea\clase19\controllers\StudentController.class
+com\udea\clase19\entity\Student.class
+com\udea\clase19\controllers\FrontController.class
+com\udea\clase19\repository\StudentRepository.class
